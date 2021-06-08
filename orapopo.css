@@ -1,0 +1,24 @@
+table,tr,td{
+font-family: century gothic;
+color: black ;
+border: 1px solid rgb(8, 179, 113);
+padding: 5px;
+background-color: white;
+}
+.posisi{
+position: absolute;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+left: 160px;
+right: 0;
+top: 60px;
+bottom: 0;
+}
+body{
+background-image: url('black_and_white_video_games_cars_Lamborghini_Gran_Turismo_5_races_Playstation_3_Aventador_2600x1463.jpg');
+background-repeat: no-repeat;
+background-size: 1480px auto;
+background-attachment: fixed;
+}
